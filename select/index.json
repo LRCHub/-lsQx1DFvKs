@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "NPC",
+  "base_artist": "*Luna feat. ねんね",
+  "createdAt": "2025-12-16T12:40:57.825462Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "Provoker",
+      "has_synced": false,
+      "path": "select/01_NPC_Provoker.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
+      "artist": "DJ NpcSize feat. Mc Larissa",
+      "has_synced": true,
+      "path": "select/02_VAI_DJ_NPC_SOCA_COM_VONTADE___MACHUCA_MACHUCA_DJ_NpcSize_feat._Mc_Larissa.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
+      "artist": "DJ NpcSize/Mc Larissa",
+      "has_synced": true,
+      "path": "select/03_VAI_DJ_NPC_SOCA_COM_VONTADE___MACHUCA_MACHUCA_DJ_NpcSize_Mc_Larissa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "Ratchet Racer",
+      "has_synced": true,
+      "path": "select/04_NPC_Ratchet_Racer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "The Snuts",
+      "has_synced": true,
+      "path": "select/05_NPC_The_Snuts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA",
+      "artist": "DJ NpcSize",
+      "has_synced": true,
+      "path": "select/06_VAI_DJ_NPC_SOCA_COM_VONTADE___MACHUCA_MACHUCA_DJ_NpcSize.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "VAI DJ NPC SOCA COM VONTADE / MACHUCA MACHUCA - MC Larissa ( DJ NpcSize )",
+      "artist": "DJ NpcSize",
+      "has_synced": true,
+      "path": "select/07_VAI_DJ_NPC_SOCA_COM_VONTADE___MACHUCA_MACHUCA_-_MC_Larissa_(_DJ_NpcSize_)_DJ_NpcSize.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'm sorry my bro (Carl the NPC Version)",
+      "artist": "GroovyDominoes52",
+      "has_synced": false,
+      "path": "select/08_I'm_sorry_my_bro_(Carl_the_NPC_Version)_GroovyDominoes52.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "LeGrand",
+      "has_synced": true,
+      "path": "select/09_NPC_LeGrand.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LIFE OF AN NPC",
+      "artist": "Lil Yagi",
+      "has_synced": true,
+      "path": "select/10_LIFE_OF_AN_NPC_Lil_Yagi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "KEG",
+      "has_synced": false,
+      "path": "select/11_NPC_KEG.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "NPC",
+      "artist": "Lil Lano",
+      "has_synced": true,
+      "path": "select/12_NPC_Lil_Lano.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "A Drug From God (Rebūke Remix) (feat. NPC)",
+      "artist": "Chris Lake • Grimes • Rebūke",
+      "has_synced": true,
+      "path": "select/13_A_Drug_From_God_(Rebūke_Remix)_(feat._NPC)_Chris_Lake_•_Grimes_•_Rebūke.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "the npc song",
+      "artist": "Sophie Hunter",
+      "has_synced": false,
+      "path": "select/14_the_npc_song_Sophie_Hunter.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Drug From God (feat. NPC)",
+      "artist": "Chris Lake",
+      "has_synced": true,
+      "path": "select/15_A_Drug_From_God_(feat._NPC)_Chris_Lake.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "NPC (Audiotree Live Version)",
+      "artist": "Provoker • Audiotree",
+      "has_synced": true,
+      "path": "select/16_NPC_(Audiotree_Live_Version)_Provoker_•_Audiotree.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "NPC Divorce",
+      "artist": "BOYO",
+      "has_synced": true,
+      "path": "select/17_NPC_Divorce_BOYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NPC",
+      "artist": "*Luna feat. ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_NPC_Luna_feat._ねんね.txt"
+    }
+  ]
+}
